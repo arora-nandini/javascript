@@ -25,6 +25,6 @@ const myFunction=function(){
     console.log("hello world");
     }
 
-
-
-
+/*-----------memmory-----
+stack (primitive),heap(non primitive)
+*/
